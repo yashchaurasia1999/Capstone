@@ -1,0 +1,106 @@
+/* 
+
+/* .con{
+    margin: 0%;
+    padding: 1px;
+    background-color: black;
+} */
+.reg-img{
+    width: 700px;
+    height: 700px;
+
+}
+.signup-text{
+    font: 'Single Day';
+    font-size: 67px;
+    font-weight: 400;
+    line-height: 94px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#72DB73;
+}
+.but{
+    width: 518px;
+    height: 55px;
+    border-radius: 28px;
+    font-family: Roboto;
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+
+}
+.heading{
+    position: relative;
+}
+
+.paragraph{
+    position: absolute;
+    left:220px;
+    top: 95px;
+    width: 292px;
+    height: 27px;
+    font-family: DM Sans;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.form-style{
+ margin-left: 80px;
+}
+.inputStyle{
+   
+    width: 518px;
+    height: 50px;
+    border-radius: 3.82px;
+    background: #292929;
+    margin:25px;
+    color:#FFFFFF;
+
+}
+.para-style{
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color:#7C7C7C;
+}
+.check-style{
+    color: #7C7C7C;
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    width: 433px;
+    height: 19px;
+    margin-left: 15px;
+    margin-top: 5px;
+
+}
+.img-style{
+    position: relative;
+}
+.img-style h1{
+    position:absolute;
+    width: 695px;
+    height: 143px;
+    top: 400px;
+    left: 62px;
+    font-family: Roboto;
+    font-size: 55px;
+    font-weight: 900;
+    line-height: 78px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color:#FFFFFF;
+
+
+} 

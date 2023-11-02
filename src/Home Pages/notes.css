@@ -1,0 +1,25 @@
+.notes{
+    margin-left:100px;
+    height:400px;
+    width:300px;
+    border-radius:19px;
+    overflow:'auto';
+    background: #F1C75B;
+   
+
+}
+.notes-content{
+    max-height: 400px; 
+    overflow-y: auto;
+}
+.notes-content h3{
+    text-align: left;
+    margin-left: 20px;
+}
+textarea{
+    background-color: #F1C75B;
+    margin-right: 5px;
+    padding: 10px;
+    outline: none;
+    border: 1px solid #F1C75B;
+}

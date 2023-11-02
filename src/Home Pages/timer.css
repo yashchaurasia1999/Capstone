@@ -1,0 +1,77 @@
+.timer-div{
+    display: flex;
+
+}
+.timer-div h3{
+    color: #949494;
+    padding: 25px;
+
+}
+.timer-div i{
+    color: #949494;
+    /* margin-left: 40px;    */
+}
+.timer-div .hour{
+    position: relative;
+
+}
+
+.buttons{
+    position: relative;
+}
+.buttons .hUp{
+    position: absolute;
+    left:50px;
+    top:-25px;
+}
+.buttons .hour-data{
+    position: absolute;
+    left:40px;
+    top:1px; 
+
+    color: aliceblue;
+}
+
+.buttons .hDow{
+    position: absolute;
+    left:50px;
+    top:30px;
+}
+
+
+.buttons .mUp{
+    position: absolute;
+    left:70px;
+    top:-25px;
+}
+.buttons .minute{
+    position: absolute;
+    left:60px;
+    top:1px; 
+
+    color: aliceblue;
+}
+
+.buttons .mDow{
+    position: absolute;
+    left:70px;
+    top:30px;
+}
+.buttons .sUp{
+    position: absolute;
+    left:50px;
+    top:-25px;
+}
+.buttons .second{
+    position: absolute;
+    left:40px;
+    top:1px; 
+
+    color: aliceblue;
+}
+
+.buttons .sDow{
+    position: absolute;
+    left:50px;
+    top:30px;
+}

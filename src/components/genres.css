@@ -1,0 +1,65 @@
+.cont{
+    background-color: black;
+    height: 100vh;
+}
+.left-genres{
+    position: relative;
+}
+.left-genres p{
+    position: absolute;
+    width: 253px;
+    height: 99px;
+    top: 50px;
+    left: 133px;
+    font-family: Single Day;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 99px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #72DB73;
+
+
+}
+.left-genres span{
+    position: absolute;
+    width: 554px;
+    height: 316px;
+    top: 160px;
+    left: 133px;
+    font-family: Roboto;
+    font-size: 68px;
+    font-weight: 700;
+    line-height: 95px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#FFFFFF;
+
+}
+.btn-next{
+    position: absolute;  
+    right:90px;
+}
+.left-genres li{
+    color:'red';
+    margin:5px; 
+    list-style:none;
+    background-color: #148A08;
+    width: 100px;
+    height: 27px;
+    color:white;
+    text-align: center;
+    border-radius:10px;
+}
+.left-genres ul{
+    position:absolute;
+    bottom: 130px;
+    left:100px;
+}
+.left-genres .genres-err{
+    position: absolute;
+    color:red;
+    bottom:100px;
+    left:140px;
+
+}
